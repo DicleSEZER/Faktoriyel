@@ -1,0 +1,8 @@
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\İmar Barisi\Desktop\c#\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb
